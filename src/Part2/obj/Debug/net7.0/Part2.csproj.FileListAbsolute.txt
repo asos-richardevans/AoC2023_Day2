@@ -1,0 +1,15 @@
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\bin\Debug\net7.0\Part2.exe
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\bin\Debug\net7.0\input.txt
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\bin\Debug\net7.0\Part2.deps.json
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\bin\Debug\net7.0\Part2.runtimeconfig.json
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\bin\Debug\net7.0\Part2.dll
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\bin\Debug\net7.0\Part2.pdb
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.AssemblyInfoInputs.cache
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.AssemblyInfo.cs
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.dll
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\refint\Part2.dll
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.pdb
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\Part2.genruntimeconfig.cache
+C:\Users\richard.evans\source\repos\AOC2023\Day02\src\Part2\obj\Debug\net7.0\ref\Part2.dll
